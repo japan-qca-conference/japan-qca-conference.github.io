@@ -1,33 +1,48 @@
 ---
 title: "Programme"
-description: "Programme overview for the Japan QCA Conference 2026"
-description-meta: "Programme overview for Japan QCA Conference 2026, including keynote speeches by Carsten Schneider and Peer Fiss, PDW roundtables, the Expert Workshop, and panel sessions."
+description: "Final programme for the Japan QCA Conference 2026"
+description-meta: "Final programme for Japan QCA Conference 2026, 30–31 October at Waseda University: daily timetable, keynote speeches, workshops, registration, and programme PDF."
 ---
 
-::: {.coming-soon}
-**Detailed timetable TBA**
+## Final programme
 
-The conference will take place on 30–31 October 2026. In-person sessions will be held at Komatsu Hall, Building 121, B1F, Waseda University. The PDW is in person, while the EW is hybrid, combining in-person and online participation. Session times, online access arrangements, and the final running order will be published after confirmation.
-:::
+The Japan QCA Conference will take place on **30–31 October 2026** at **Komatsu Hall, Building 121, B1F, Waseda University, Tokyo**. All times below are in **Japan Standard Time (JST, UTC+9)**.
 
-## Plenary session
+[View the final programme (PDF)](files/JQCA2026_Programme_final.pdf){.btn .btn-primary} [Download the PDF](files/JQCA2026_Programme_final.pdf){.btn .btn-outline-primary download="JQCA2026_Programme_final.pdf"}
 
-[**Carsten Schneider**](https://people.ceu.edu/carsten-q_schneider) and [**Peer Fiss**](https://www.peerfiss.com/) will deliver keynote speeches during the plenary session.
+The PDF includes the complete programme in **English and Japanese**, with presentation titles, speakers, discussants, and session assignments.
 
-## Expert roundtable
+## Participation and registration
 
-An expert roundtable will discuss the progress of QCA practices and provide space for exchange on current methodological questions.
+**Advance registration is required.** Please register using the conference participation form and indicate whether you will attend the dinner reception on 30 October.
 
-## Panel sessions
+[Register for the conference via Google Forms ↗](https://forms.gle/fuEkCVLVrqkyKCSr8){.btn .btn-primary target="_blank" rel="noopener" aria-label="Register for the conference using Google Forms in a new tab"}
 
-Panel sessions will introduce and discuss the latest methodological developments in QCA.
+Keynote speeches and Paper Development Workshops are **in person**. Roundtables and Expert Workshops are **hybrid**, combining in-person and online participation.
 
-## Paper Development Workshop
+## Day 1 — 30 October 2026
 
-Paper developers will meet in small roundtable sessions to receive detailed, constructive feedback from QCA experts on empirical projects using QCA and related methods.
+| Time (JST) | Session |
+|:---|:---|
+| 10:00–10:05 | Welcome Address — Yuko Kasuya (IPSA President, Waseda University) |
+| 10:05–10:30 | Why Japan QCA Conference?: Brief Introduction to QCA — Airo Hino (Waseda University) |
+| 10:30–12:00 | Keynote Speech — [Peer Fiss](https://www.peerfiss.com/) (University of Southern California) |
+| 12:00–13:00 | Lunch |
+| 13:00–14:30 | Paper Development Workshop I — Sessions I and II |
+| 14:45–15:45 | Roundtable: QCA as an Approach **(hybrid)** — Moderator & Facilitator: Yuko Kasuya; Panelists: Peer Fiss, Carsten Schneider, and Srikrishna Ayyangar (online) |
+| 16:00–18:00 | Expert Workshop I **(hybrid)** — Moderator: Taisuke Fujita (Saitama University) |
+| 18:00 | Reception |
 
-## Expert Workshop
+## Day 2 — 31 October 2026
 
-The EW is organized as a discussion forum rather than a conventional paper-presentation session. It focuses on methodological issues related to QCA and related methods.
+| Time (JST) | Session |
+|:---|:---|
+| 10:25–10:30 | Day 2 Opening Remarks — Sho Niikawa (Kobe University) |
+| 10:30–12:00 | Keynote Speech — [Carsten Schneider](https://people.ceu.edu/carsten-q_schneider) (Central European University) |
+| 12:00–13:00 | Lunch |
+| 13:00–14:30 | Paper Development Workshop II — Sessions III, IV, and V |
+| 14:45–15:45 | Roundtable: QCA as a Technique **(hybrid)** — Moderator & Facilitator: Airo Hino; Panelists: Carsten Schneider, Peer Fiss, and Sho Niikawa |
+| 16:00–17:30 | Expert Workshop II **(hybrid)** — Moderator: Atsushi Ishida (Kwansei Gakuin University) |
+| 17:30–18:00 | Conference Summary and Closing Remarks — Narimasa Yokoyama (Doshisha University) and Nobukazu Azuma (Aoyama Gakuin University) |
 
-The final programme will identify session times, speakers, rooms, breaks, and participant guidance once these details have been confirmed.
+See the [final programme PDF](files/JQCA2026_Programme_final.pdf) for individual presentations and discussants, and [Venue & Access](venue.qmd) for directions.

@@ -11,6 +11,7 @@ project:
     - bibliography.qmd
     - contact.qmd
   resources:
+    - files/JQCA2026_Programme_final.pdf
     - googlea9b156cb8c78e30d.html
     - google9fc277138fd7a0a8.html
     - conference-website

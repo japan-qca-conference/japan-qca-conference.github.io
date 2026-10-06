@@ -24,10 +24,10 @@ Submit a maximum 500-word abstract as a Word or PDF file.
 :::
 :::
 
-## Call for abstracts and papers {#current-status}
+## Final programme and participation {#current-status}
 
 ::: {.callout-important}
-Applications for the Paper Development Workshop and Expert Workshop use separate Google Forms. Abstracts are due by **14 August 2026**, and applicants will be notified around **31 August 2026**.
+The **final programme is now available**. [View the daily timetable][programme-page] or [download the programme (PDF)](files/JQCA2026_Programme_final.pdf){download="JQCA2026_Programme_final.pdf"} in English and Japanese. **Advance registration is required**: [register for the conference via Google Forms ↗](https://forms.gle/fuEkCVLVrqkyKCSr8){target="_blank" rel="noopener"}. Please indicate whether you will attend the dinner reception on 30 October.
 :::
 
 The Japan QCA Conference brings together researchers who apply QCA in empirical research and experts working on the latest QCA and related methodological developments. The PDW is held in person at Komatsu Hall, Research Innovation Center (Building 121), Waseda University, Tokyo. The EW is a hybrid event, combining in-person and online participation.
@@ -112,16 +112,16 @@ QCA experts may participate without presenting a paper by indicating this in the
 
 ## Programme highlights
 
-- Plenary keynote speeches by [**Carsten Schneider**](https://people.ceu.edu/carsten-q_schneider) and [**Peer Fiss**](https://www.peerfiss.com/)
-- An expert roundtable on the progress of QCA practices
-- Panel sessions on the latest methodological developments in QCA
-- Intensive Paper Development Workshop roundtables
-- An open-discussion Expert Workshop
+- Keynote speech by [**Peer Fiss**](https://www.peerfiss.com/) on 30 October
+- Keynote speech by [**Carsten Schneider**](https://people.ceu.edu/carsten-q_schneider) on 31 October
+- Hybrid roundtables on QCA as an Approach and QCA as a Technique
+- In-person Paper Development Workshops
+- Hybrid Expert Workshops
 
-[View the provisional programme overview][programme-page]
+[View the final programme and timetable][programme-page]
 
 ## Practical information
 
-There is **no conference fee**. The detailed timetable, session assignments, reception instructions, and accessibility guidance will be added as they are confirmed.
+There is **no conference fee**. The reception starts at **18:00 on 30 October**; please indicate your attendance when registering. Accessibility guidance is in preparation.
 
 Questions may be sent to [jqca2026@gmail.com](mailto:jqca2026@gmail.com).
