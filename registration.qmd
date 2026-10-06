@@ -1,11 +1,13 @@
 ---
 title: "Call for Abstracts & Papers"
 description: "Submission information for the Japan QCA Conference 2026"
-description-meta: "Submit a maximum 500-word abstract to the Japan QCA Conference 2026 Paper Development Workshop or Expert Workshop by 14 August 2026. There is no conference fee."
+description-meta: "Accepted PDW presenters should submit a paper of no more than 8,000 words to jqca2026@gmail.com by 16 October 2026. Submission and travel-grant information for Japan QCA Conference 2026."
 ---
 
 ::: {.callout-important}
-Submit a maximum **500-word abstract** as a Word or PDF file by **14 August 2026**. Applicants will be notified around **31 August 2026**. Choose the workshop that best matches your proposal below.
+**PDW paper submission deadline: 16 October 2026.** Accepted PDW presenters should email their paper of no more than **8,000 words** as an attachment to [jqca2026@gmail.com](mailto:jqca2026@gmail.com). Please indicate whether you plan to attend the dinner reception on the first evening of the conference.
+
+The abstract submission deadline was **14 August 2026**, with decision notification scheduled around **31 August 2026**. The original abstract requirements are listed below.
 :::
 
 ## Choose your workshop
@@ -24,7 +26,7 @@ Submit a maximum **500-word abstract** as a Word or PDF file by **14 August 2026
 
 **Review:** Purpose, methodological rigor, QCA-based research design, data detail, and empirical findings.
 
-**Travel grant:** Eligible PhD students may apply; grants are expected not to exceed ¥50,000. Further details will be provided with the abstract decision.
+**Travel grant:** Accommodation grants of up to ¥50,000 per person are under consideration for PhD students with insufficient or no travel funding. The application deadline was **11 September 2026**. See the [travel-grant details](#travel-grants-for-phd-students).
 
 :::
 
@@ -58,8 +60,11 @@ Submit a maximum **500-word abstract** as a Word or PDF file by **14 August 2026
 | Expert Workshop format | Hybrid: in-person and online participation |
 | Abstract deadline | 14 August 2026 |
 | Abstract length | Maximum 500 words; no page limit is stated |
-| File format | Word or PDF |
+| Abstract file format | Word or PDF |
 | Notification | Around 31 August 2026 |
+| PDW full-paper deadline | 16 October 2026 |
+| PDW full-paper length | Maximum 8,000 words |
+| PDW full-paper submission | Email attachment to [jqca2026@gmail.com](mailto:jqca2026@gmail.com) |
 | Conference fee | None |
 
 The title and all authors’ information must be included in the abstract.
@@ -85,11 +90,19 @@ Within the 500-word limit, provide detailed information on the data—including 
 
 ### Review and next steps
 
-An expert panel will review the clarity of purpose and methodological rigor. Accepted applicants will be invited to submit a full paper of no more than **8,000 words** for presentation at the PDW. A full-paper deadline is not stated in the supplied call.
+An expert panel reviews the clarity of purpose and methodological rigor. Accepted applicants are invited to submit a full paper for presentation at the PDW.
 
-### Travel grant
+### Paper submission {#pdw-paper-submission}
 
-PhD students who have no or insufficient funding to travel to Tokyo may apply for a travel grant. Grants are expected not to exceed **¥50,000**. Further application details will be provided when applicants are notified of the decision regarding their abstract.
+To receive valuable feedback during the PDW, please submit your paper in advance. Your paper should be no more than **8,000 words** long. Send it as an **email attachment** to [jqca2026@gmail.com](mailto:jqca2026@gmail.com) by **16 October 2026**.
+
+A dinner reception will be held on the evening of the first day of the conference, **30 October**. Please indicate whether you plan to attend when you submit your paper by 16 October.
+
+### Travel grants for PhD students {#travel-grants-for-phd-students}
+
+Travel grants of up to **¥50,000 per person** are being considered to cover **accommodation expenses** for PhD students who have insufficient or no funding to travel to Tokyo. The number of grants is limited, and priority will be given to presenters travelling from far away.
+
+Applicants were asked to reply by **11 September 2026**. This application deadline has passed.
 
 [Submit a PDW Proposal ↗](https://forms.gle/yWGnhG6sx83hpv1v8){.btn .btn-primary target="_blank" rel="noopener" aria-label="Submit a PDW Proposal in a new tab"}
 

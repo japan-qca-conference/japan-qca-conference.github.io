@@ -16,11 +16,11 @@ Building 121, B1F, Waseda University, Tokyo.
 :::
 
 ::: {.status-card}
-### Abstract deadline
+### PDW paper deadline
 
-**14 August 2026**
+**16 October 2026**
 
-Submit a maximum 500-word abstract as a Word or PDF file.
+Email your paper of no more than 8,000 words to jqca2026@gmail.com.
 :::
 :::
 
@@ -59,15 +59,15 @@ Applicants will be notified of the abstract decision. Accepted PDW applicants wi
 :::
 :::
 
-::: {.key-date .key-date-pending}
-<p class="key-date-date"><span class="key-date-tba">TBA</span></p>
+::: {.key-date .key-date-important}
+<p class="key-date-date"><time datetime="2026-10-16">16 October 2026</time></p>
 ::: {.key-date-marker aria-hidden="true"}
 :::
 
 ::: {.key-date-details}
 ### Full paper deadline
 
-The PDW full-paper deadline and submission instructions are in preparation. A full paper is optional for the Expert Workshop.
+Accepted PDW presenters should email their paper of no more than **8,000 words** as an attachment to [jqca2026@gmail.com](mailto:jqca2026@gmail.com) and indicate whether they plan to attend the dinner reception. [Read the paper submission instructions](registration.qmd#pdw-paper-submission). A full paper is optional for the Expert Workshop.
 :::
 :::
 
@@ -92,7 +92,7 @@ In-person sessions take place at Komatsu Hall, Waseda University, Tokyo. The EW 
 
 For researchers who are already applying QCA in an empirical study and want detailed feedback in small roundtable sessions.
 
-Eligible PhD students with no or insufficient travel funding may apply for a travel grant expected not to exceed ¥50,000. Application details will be provided with the abstract decision.
+Accommodation grants of up to **¥50,000 per person** are under consideration for PhD students with insufficient or no travel funding, with priority given to presenters travelling from far away. The application deadline was **11 September 2026**.
 
 [Review PDW requirements][cfp-pdw] · [Apply via Google Forms ↗](https://forms.gle/yWGnhG6sx83hpv1v8){target="_blank" rel="noopener" aria-label="Apply to the PDW using Google Forms in a new tab"}
 :::

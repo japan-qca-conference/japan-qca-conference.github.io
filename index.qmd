@@ -20,7 +20,7 @@ include-in-header:
 <div class="design-hero-facts" aria-label="Conference facts">
 <span>30–31 October 2026</span>
 <span>Komatsu Hall · Building 121, B1F</span>
-<span>Abstract deadline: 14 August 2026</span>
+<span>PDW paper deadline: 16 October 2026</span>
 </div>
 
 [View the Final Programme](program.qmd){.btn .btn-light}
