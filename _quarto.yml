@@ -11,6 +11,8 @@ project:
     - bibliography.qmd
     - contact.qmd
   resources:
+    - files/JQCA2026_Programme_v2.pdf
+    # Legacy URL kept for links shared earlier; same content as v2
     - files/JQCA2026_Programme_final.pdf
     - googlea9b156cb8c78e30d.html
     - google9fc277138fd7a0a8.html
@@ -18,6 +20,12 @@ project:
     - images/hero-02-historic-tokyo.png
     - images/hero-04-shinjuku-skyline.png
     - hero-rotation.js
+    - favicon.ico
+    - images/favicon.ico
+    - images/favicon-32x32.png
+    - images/favicon-48x48.png
+    - images/favicon-192x192.png
+    - images/apple-touch-icon.png
 
 lang: en
 
@@ -25,6 +33,7 @@ website:
   title: "Japan QCA Conference 2026"
   description: "Japan QCA Conference, 30–31 October 2026, Komatsu Hall, Waseda University, Tokyo"
   site-url: "https://japan-qca-conference.github.io/"
+  favicon: images/favicon-192x192.png
   image: "images/hero-04-shinjuku-skyline.png"
   image-alt: "Illustrated view inspired by the Shinjuku skyline"
   open-graph: true
@@ -66,5 +75,7 @@ format:
     toc: true
     toc-title: On this page
     link-external-newwindow: true
+    include-in-header:
+      - _includes/favicon-head.html
 
 editor: visual
